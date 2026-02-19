@@ -70,6 +70,11 @@ Currently expanding my expertise in Machine Learning and Predictive Analytics.
 ✔ Data-Driven Recommendations  
 
 ---
+## Career Goal
+
+To become a professional Data Analyst and contribute to data-driven decision-making in organizations.
+
+---
 
 ## 📫 Let's Connect
 
